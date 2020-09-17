@@ -1,0 +1,20 @@
+button{
+    border-radius: 50%;
+}
+.plus{
+    background-color: red;
+    border: white;
+    
+}
+.minus{
+    background-color: blue;
+    border: white;
+    /* margin-left: 189px; */
+}
+.container > div { 
+    box-sizing: border-box; 
+    border: 1px solid #444; 
+    display: inline-block; 
+    padding: 15px; 
+    width: 50%; 
+  } 
